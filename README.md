@@ -4,7 +4,7 @@
 
 # I’m Natalia Cancino Garcia 👋
 
-Welcome to my GitHub! I’m a **Data Analyst and Engineer **💻 with a strong foundation in International Development Economics 🌍, Project Management 📊, and Business Intelligence 💡. I’m passionate about solving complex problems through data and technology, bringing a diverse range of experiences in data analysis 📈, and software development 🛠️.
+Welcome to my GitHub! I’m a Data Analyst and Engineer 💻 with a strong foundation in International Development Economics 🌍, Project Management 📊, and Business Intelligence 💡. I’m passionate about solving complex problems through data and technology, bringing a diverse range of experiences in data analysis 📈, and software development 🛠️.
 
 
 ## 🌟 What I Do:
