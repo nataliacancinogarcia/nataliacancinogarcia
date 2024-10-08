@@ -1,5 +1,5 @@
 # Introducing-Myself
-![Banner](https://github.com/nataliacancinogarcia/Introducing-Myself/blob/main/Dreamland.png) <!-- Optional banner image -->
+![Banner](https://github.com/nataliacancinogarcia/nataliacancinogarcia/blob/main/Dreamland.png) <!-- Optional banner image -->
 
 
 # I’m Natalia Cancino Garcia 👋
