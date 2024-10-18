@@ -10,17 +10,11 @@ Welcome to my GitHub! I’m a Data Analyst and Engineer 💻 with a strong found
 ## 🌟 What I Do:
 
 • **Data Science & Analytics 📊:** Skilled in Python, R, SQL, and Stata to analyze and visualize data. I love discovering insights 🔍 and building interactive dashboards 📊 using Tableau.
-  
-• **Climate & Sustainability 🌱:** As a Climate Data Research Associate, I worked on projects focusing on the impact of climate change 🌎, transportation infrastructure 🚗, and sustainability metrics 🌿.
 
 
 ## 🚀 Projects You’ll Find Here:
 
-• Data-driven research and analysis 🔬 on climate change 🌍 and development economics 📚.
-
-• Automation tools 🤖 and scripts to optimize processes and enhance operational efficiency.
-
-• Projects showcasing my skills in data visualization 📊, ETL processes 🛠️, and software development 💻.
+• [Projects](https://github.com/nataliacancinogarcia/Portfolio) showcasing my skills in reseach, ETL processes 🛠️, data visualization 📊 and software development 💻 .
 
 
 ## 🎓 Education & Certifications:
