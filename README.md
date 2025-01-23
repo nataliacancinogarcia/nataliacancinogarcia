@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a Data Analyst and Engineer 💻 with a strong found
 
 ## 🌟 What I Do:
 
-• **Data Science & Analytics 📊:** Skilled in Python, R, SQL, and Stata to analyze and visualize data. I love discovering insights 🔍 and building interactive dashboards 📊 using Tableau.
+• **Data Science & Analytics 📊:** Skilled in Python, R, SQL, and Stata to analyze and visualize data. I love discovering insights 🔍 and building interactive dashboards 📊 using Tableau and Power BI.
 
 
 ## 🚀 Projects You’ll Find Here:
